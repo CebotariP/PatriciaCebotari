@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://CebotariP.github.io/PatriciaCebotari/portfolio",
+  "homepage": "https://CebotariP.github.io/PatriciaCebotari",
   "private": true,
   "scripts": {
     "dev": "next dev",
