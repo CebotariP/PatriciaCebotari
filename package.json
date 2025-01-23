@@ -4,11 +4,11 @@
   "homepage": "https://CebotariP.github.io/PatriciaCebotari",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build","dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+
     "lint": "next lint"
   },
   "dependencies": {
