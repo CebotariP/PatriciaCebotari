@@ -12,7 +12,7 @@ export default function Home() {
           height={38}
           priority
         /> */}
-        <div id="logo" className="w-[500px] text-[40px]">
+        <div id="logo" className="w-[700px] text-[40px]">
             <a href="">
                 <span>Patricia</span><span> Cebotari</span>
             </a>
